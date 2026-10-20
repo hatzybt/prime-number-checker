@@ -1,0 +1,25 @@
+{
+  "name": "primechecker",
+  "version": "1.0.0",
+  "description": "to check prime number",
+  "keywords": [
+    "prime",
+    "number",
+    "check"
+  ],
+  "homepage": "https://github.com/hatzybt/prime-number-checker#readme",
+  "bugs": {
+    "url": "https://github.com/hatzybt/prime-number-checker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatzybt/prime-number-checker.git"
+  },
+  "license": "MIT",
+  "author": "hatzybt",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  }
+}
